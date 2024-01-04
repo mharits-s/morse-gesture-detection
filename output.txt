@@ -1,0 +1,3 @@
+Recorded Pattern: ['dash', 'new', 'dit', 'dash', 'new', 'dit', 'next', 'dit']
+Morse Code Pattern: - .- ..
+Decoded String: TAI
